@@ -1,3 +1,6 @@
+# © 2025 Fr0zst. All rights reserved. 
+# Unauthorized copying prohibited.
+
 import pyfiglet
 import secrets
 import string
@@ -79,3 +82,4 @@ while True:
         break
     else:
         print("Invalid option. Try again.")
+
